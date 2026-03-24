@@ -1,5 +1,6 @@
 # VBScripting-Fundamentals-Coding-Gears
 My portfolio addition from Visual Basic course I am taking. I am only selecting some assignments that I want to remember/showcase.
+Password hint: Foo
 
 ![Course logo](vb.png?raw=true "Coding Gears")
 
